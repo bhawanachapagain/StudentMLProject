@@ -1,0 +1,4 @@
+school,sex,age,address,famsize,Pstatus,Medu,Fedu,Mjob,Fjob,reason,guardian,traveltime,studytime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences,G1_mat,G2_mat,G1_por,G2_por,G3_por,prediction
+GP,F,17,U,LE3,T,2,2,teacher,teacher,course,mother,1,2,0,yes,yes,yes,yes,yes,yes,yes,yes,4,3,3,1,2,3,5,10,10,10,10,10,10.13
+GP,F,17,U,LE3,T,2,2,teacher,teacher,course,mother,1,2,0,yes,yes,yes,yes,yes,yes,yes,yes,4,3,3,1,2,3,5,10,10,10,10,10,10.13
+GP,F,17,U,LE3,T,2,2,teacher,teacher,course,mother,1,2,0,yes,yes,yes,yes,yes,yes,yes,yes,4,3,3,1,2,3,5,10,10,10,10,10,10.13
